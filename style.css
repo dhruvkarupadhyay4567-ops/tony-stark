@@ -1652,3 +1652,9 @@ span {
         display: none;
     }
 }
+
+@media (max-width: 425px) {
+    .condition-section {
+        display: none;
+    }
+}
