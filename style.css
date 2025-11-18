@@ -1563,3 +1563,15 @@ span {
     font-size: 12px;
     line-height: 100%;
 }
+
+@media (max-width: 768px) {
+    .health-child {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .intreatment-box {
+        display: flex;
+        flex-direction: column;
+    }
+}
