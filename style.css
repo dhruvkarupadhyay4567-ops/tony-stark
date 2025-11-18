@@ -1565,13 +1565,90 @@ span {
 }
 
 @media (max-width: 768px) {
+
+    nav ul li   {
+        display: none;
+    }
+
+    
+
+    .thyroid-syntum {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+
+    .syntums {
+        flex-wrap: wrap;
+    }
+
+    .health2 {
+        flex-wrap: wrap;
+        padding: 40px;
+    }
+
+    .thyroidissu {
+        flex-wrap: wrap;
+        display: flex;
+        }
+
+        .thyroid-issu-sec {
+            flex-wrap: wrap;
+        }
+
+        .fill-detail {
+            flex-wrap: wrap;
+        }
+
+    .detail1,
+    .detail3 {
+        display: none;
+    }
     .health-child {
         display: flex;
         flex-direction: column;
     }
 
+    .condition {
+        flex-wrap: wrap;
+    }
+
+    .condition-0-1 {
+        flex-wrap: wrap;
+        margin-top: 250px;
+    }
+    .sarah2 {
+        padding-bottom: 10px;
+    }
     .intreatment-box {
         display: flex;
         flex-direction: column;
+    }
+
+    .review-section {
+        flex-wrap: wrap;
+    }
+
+    .fill-details {
+        flex-wrap: wrap;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+    .foot {
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+    }
+
+    .working-time {
+        display: none;
+    }
+
+    .end-foot {
+        display: none;
     }
 }
