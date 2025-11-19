@@ -114,6 +114,10 @@ nav ul li a:hover {
     background: linear-gradient(to right, #0122a6, #51AAEE);
 }
 
+.btn button:active {
+    background: linear-gradient(to right, #021667, #51AAEE);
+}
+
 .fill-detail {
     display: flex;
     justify-content: center;
@@ -282,4 +286,7 @@ nav ul li a:hover {
 .btn9 button:hover {
     transform: scale(1.1);
     background: linear-gradient(to right, #0122a6, #51AAEE);
+}
+.btn9 button:active {
+    background: linear-gradient(to right, #021667, #51AAEE);
 }
